@@ -27,3 +27,5 @@ venv/
 # IDE
 .idea/
 .vscode/
+
+datalake/
